@@ -1,0 +1,8 @@
+# folders
+mivenv/
+dist/
+linux/
+build/
+
+# file
+migittool.spec
